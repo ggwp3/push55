@@ -1,0 +1,58 @@
+table.form-table
+{
+	border-collapse:collapse;
+	font-size:100%;
+	font-weight:normal;
+	line-height:160%;
+	width:100%;
+}
+
+table.form-table th, table.form-table td
+{
+	padding: 5px 5px;
+	vertical-align:top;
+}
+
+table.form-table th
+{
+	text-align: left;
+}
+
+
+table.form-table td
+{
+	padding-top: 15px;
+}
+
+.form-required 
+{
+	color: red;
+}
+
+.error-fld {
+	display: block;
+	float: left;
+	height: 13px;
+	width: 15px;
+}
+table.form-table th {
+    text-align: center;
+}
+.inputtextarea {
+    border: 1px solid #ddd;
+	width: 100%;
+	height: 42px;
+	line-height: 40px;
+	color: #ddd;
+	color: #000000;
+	padding: 0 20px;
+}
+.inputtext {
+    border: 1px solid #ddd;
+	width: 100%;
+	height: 42px;
+	line-height: 40px;
+	color: #ddd;
+	color: #000000;
+	padding: 0 20px;	
+}
